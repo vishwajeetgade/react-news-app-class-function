@@ -1,3 +1,7 @@
+# First You need to generate an API key from https://newsapi.org/
+Once Key is generate use below command to create new file
+echo "REACT_APP_NEWS_API_KEY='your_api_key'" >> .env.local
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
